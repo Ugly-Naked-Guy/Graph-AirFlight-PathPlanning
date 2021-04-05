@@ -1,0 +1,6 @@
+3395,"Chengdu Shuangliu International Airport","Chengdu","China","CTU","ZUUU",30.578500747680664,103.9469985961914,1625,8,"U","Asia/Shanghai","airport","OurAirports"
+3364,"Beijing Capital International Airport","Beijing","China","PEK","ZBAA",40.080101013183594,116.58499908447266,116,8,"U","Asia/Shanghai","airport","OurAirports"
+3375,"Zhengzhou Xinzheng International Airport","Zhengzhou","China","CGO","ZHCC",34.519699096699995,113.841003418,495,8,"U","Asia/Shanghai","airport","OurAirports"
+2276,"Taiwan Taoyuan International Airport","Taipei","Taiwan","TPE","RCTP",25.0777,121.233002,106,8,"U","Asia/Taipei","airport","OurAirports"
+3316,"Singapore Changi Airport","Singapore","Singapore","SIN","WSSS",1.35019,103.994003,22,8,"N","Asia/Singapore","airport","OurAirports"
+3077,"Hong Kong International Airport","Hong Kong","Hong Kong","HKG","VHHH",22.308901,113.915001,28,8,"U","Asia/Hong_Kong","airport","OurAirports"
